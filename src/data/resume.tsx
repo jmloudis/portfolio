@@ -14,6 +14,7 @@ import {Perl} from "@/components/ui/svgs/perl";
 
 export const DATA = {
   name: "Jordan Loudis",
+  initials: "JL",
   url: "https://dillion.io",
   location: "Downingtown, PA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
